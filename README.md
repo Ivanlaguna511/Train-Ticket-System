@@ -27,7 +27,7 @@ The primary focus of this project was to design an intuitive User Experience (UX
 * **Hardware Simulation:** Interactive card readers with proximity detection and timed validation.
 
 ### Interface Preview
-![Train Ticket System Gameplay](src/resources/images/screenshot1.png)
+![Train Ticket System Gameplay](<img width="1318" height="876" alt="image" src="https://github.com/user-attachments/assets/2b842b6c-5e0b-448b-a2ef-9458ea917f3a" />)
 
 ### Tech Stack
 - **Language:** Java 11+
