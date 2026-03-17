@@ -53,14 +53,14 @@ git clone [https://github.com/YOUR_USERNAME/Train-Ticketing-System.git](https://
 cd Train-Ticketing-System
 ```
 
-##2. Library Configuration:
+**2. Library Configuration:**
 Ensure the lib/jcalendar-1.4.jar file is added to your project's build path (Referenced Libraries in VS Code).
 
-##3. Run the application:
+**3. Run the application:**
 Run the main method located in:
 ```bash
 src/com/trainticketing/main/Main.java
 ```
 
-##Original Authors
+**Original Authors**
 -Iván Moro Cienfuegos and Eric Soto San José
