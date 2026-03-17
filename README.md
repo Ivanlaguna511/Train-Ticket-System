@@ -17,7 +17,7 @@
 
 ## About the Project
 
-"RailWay Pro" is a professional desktop application simulating an advanced self-service train ticketing kiosk. It was developed as the final practical work for the **Human-Computer Interaction (HCI)** course. 
+"Train Ticket System" is a professional desktop application simulating an advanced self-service train ticketing kiosk. It was developed as the final practical work for the **Human-Computer Interaction (HCI)** course. 
 
 The primary focus of this project was to design an intuitive User Experience (UX) that guides the user through a complex multi-step purchasing process while maintaining data integrity and simulating real-world hardware interactions.
 
